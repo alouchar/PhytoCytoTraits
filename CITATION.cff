@@ -1,8 +1,8 @@
 cff-version: 1.1.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: Arnaud P.
-  given-names: Louchart
+- family-names: Louchart, Van de Waal
+  given-names: Arnaud P., Dedmer B.
 orcid: https://orcid.org/0000-0003-1549-4261
 title:alouchar/PhytoCytoTraits: PhytoCytoTraits App
 version: v1.0.0
